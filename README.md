@@ -31,7 +31,7 @@ Correo: prueba@gmail.com
 
 Contraseña: 12345    
 
-Acceder como cliente:
+Acceder como estudiante:
 
 Correo: prueba2@gmail.com
 
